@@ -1,0 +1,71 @@
+#contain{
+    width:85%;
+    height:800px;
+    margin: auto;
+    display:flex;
+}
+
+#left{
+    width:40%;
+    display: inline-block;
+}
+
+#left:hover{
+    background-color: peru;
+}
+
+#show{
+    width:55%;
+    background-color: yellow;
+    margin-left: 3%;
+}
+
+#logo{
+    width:80%;
+    height:30%;
+    margin:auto;
+}
+
+.logoOff{
+    width:100%;
+    height:80%;
+}
+
+#notes{
+    width:95%;
+    height:55%;
+    margin: auto ;
+    margin-top: 4%;
+}
+
+#note{
+    width:98.5%;
+    height:200px;
+}
+
+#sbmt{
+    margin-left: 30%;
+    margin-top: 5%;
+    width:200px;
+    height:80px;
+}
+
+.parent{
+    width:99%;
+    height:100px;
+    display:flex;
+    border:5px solid blue;
+    margin-bottom: 5%;
+}
+
+.divNote{
+    width:90%;
+    height:100%;
+    text-align: center;
+    font-size: x-large;
+}
+
+.delBtn{
+    height:50px;
+    margin-top: 25px;
+}
